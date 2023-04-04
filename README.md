@@ -1,4 +1,4 @@
-# mitochondia-simulator
+# mitochondia-simulator (RRID: SCR_023430)
 
 These scripts are designed for the mtDNA assembly project
 
